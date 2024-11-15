@@ -9,6 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteFinder.Models", "Route
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteFinder.Service", "RouteFinder.Service\RouteFinder.Service.csproj", "{9FF6C56F-6E81-4A05-96C2-16858EF7F6AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteFinder.Tests", "RouteFinder.Tests\RouteFinder.Tests.csproj", "{124F20B7-A71E-4F41-ADD4-104A14CC622C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EE589D39-B323-4BC6-96B9-5404085EF8E3}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +34,10 @@ Global
 		{9FF6C56F-6E81-4A05-96C2-16858EF7F6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FF6C56F-6E81-4A05-96C2-16858EF7F6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FF6C56F-6E81-4A05-96C2-16858EF7F6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{124F20B7-A71E-4F41-ADD4-104A14CC622C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{124F20B7-A71E-4F41-ADD4-104A14CC622C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{124F20B7-A71E-4F41-ADD4-104A14CC622C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{124F20B7-A71E-4F41-ADD4-104A14CC622C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

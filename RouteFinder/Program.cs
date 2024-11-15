@@ -8,7 +8,7 @@ namespace RouteFinder
         {
             try
             {
-                var graph = GraphFactory.CreateGraphFromFile(@"../../../../TrainRouteFinder_InputFiles/Input.txt");
+                var graph = GraphFactory.CreateGraphFromFile(@"../../../../RouteFinder.InputFiles/Input.txt");
 
                 var calculator = new RouteCalculator(graph);
 
